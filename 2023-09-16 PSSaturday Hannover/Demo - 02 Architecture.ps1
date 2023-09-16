@@ -44,7 +44,7 @@ Get-PSFConfig -Module MSGraph -Name Tenant.Application.ClientID | Format-List Fu
 
 
 # Set custom AppID
-$clientID = "f8b6fef5-a1bc-4c4e-90d4-6e0640ceec25" # Custom App Personal_PowerShell_MSGraph - AndreasBellstedtpersonal.onmicrosoft.com
+$clientID = "00000000-1111-2222-3333-444444444444" # Custom App Personal_PowerShell_MSGraph
 Set-PSFConfig -Module MSGraph -Name Tenant.Application.ClientID -Value $clientID
 # Now you can catch a token with you personal registered app
 
