@@ -1,0 +1,8 @@
+{
+    "Name":  "InternalPSGallery",
+    "SourceLocation":  "\\\\psrepo.mydomain.com\\PowerShell\\PSRepo\\",
+    "PublishLocation":  "\\\\psrepo.mydomain.com\\PowerShell\\PSRepo\\",
+    "ScriptSourceLocation":  "\\\\psrepo.mydomain.com\\PowerShell\\PSRepo\\",
+    "ScriptPublishLocation":  "\\\\psrepo.mydomain.com\\PowerShell\\PSRepo\\",
+    "Trusted":  true
+}

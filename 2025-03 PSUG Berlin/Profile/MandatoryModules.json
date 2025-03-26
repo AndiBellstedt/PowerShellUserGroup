@@ -1,0 +1,17 @@
+﻿{
+    "DEFAULT": [
+        "Microsoft.PowerShell.PSResourceGet",
+        "PSReadLine",
+        "Pester",
+        "PackageUpdateInfo"
+    ],
+    "TemplateCorp.company.com": [
+        "pswindowsupdate",
+        "speculationcontrol"
+    ],
+    "*PAW*": [
+        "PSFramework",
+        "WindowsEventForwarding",
+        "WinEventLogCustomization"
+    ]
+}
